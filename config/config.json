@@ -1,0 +1,18 @@
+{
+	"cluster" : {
+		"address" : "CLUSTER_ADDRESS",
+        "port" : "8000",
+		"username" : "", 
+		"password" : "",
+        "access_token": ""
+	},
+    "email":{
+        "from": "from@mail.com",
+        "to": "to@mail.com",
+        "login": "",
+        "password": "",
+        "server": "SMTP SERVER ADDRESS",
+        "port": 25,
+        "use": "none"
+    }
+}
